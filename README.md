@@ -2,7 +2,7 @@
 
 > Genera carruseles completos para Instagram: contenido escrito + slides SVG vectoriales + preview interactivo de Instagram. Sin imágenes AI — solo formas, colores, tipografía y geometría vectorial.
 
-Desarrollado por [pyneuraLLC](https://github.com/pyneuraLLC)
+Desarrollado por [marcoslaureanoPy](https://github.com/marcoslaureanoPy)
 
 ---
 
@@ -22,13 +22,13 @@ Desarrollado por [pyneuraLLC](https://github.com/pyneuraLLC)
 ### Mac / Linux
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/pyneuraLLC/instagram-carousel-skill/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/marcoslaureanoPy/instagram-carousel-skill/main/install.sh | bash
 ```
 
 O manualmente:
 
 ```bash
-git clone https://github.com/pyneuraLLC/instagram-carousel-skill.git
+git clone https://github.com/marcoslaureanoPy/instagram-carousel-skill.git
 cd instagram-carousel-skill
 bash install.sh
 ```
@@ -36,13 +36,13 @@ bash install.sh
 ### Windows (PowerShell)
 
 ```powershell
-irm https://raw.githubusercontent.com/pyneuraLLC/instagram-carousel-skill/main/install.ps1 | iex
+irm https://raw.githubusercontent.com/marcoslaureanoPy/instagram-carousel-skill/main/install.ps1 | iex
 ```
 
 O manualmente:
 
 ```powershell
-git clone https://github.com/pyneuraLLC/instagram-carousel-skill.git
+git clone https://github.com/marcoslaureanoPy/instagram-carousel-skill.git
 cd instagram-carousel-skill
 .\install.ps1
 ```
